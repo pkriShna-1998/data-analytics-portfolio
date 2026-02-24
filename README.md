@@ -137,7 +137,7 @@ pip install -r requirements.txt
 ## Contact & Connect
 
 **Email:** pktella25@gmail.com
-**LinkedIn:** [linkedin.com/in/prudhvikrishnatella](https://www.linkedin.com/in/prudhvikrishnatella)ratan-a82193273)
+**LinkedIn:** [linkedin.com/in/prudhvikrishnatella](https://www.linkedin.com/in/prudhvikrishnatella)
 **GitHub:** [github.com/pkriShna-1998](https://github.com/pkriShna-1998)
 
 ---
