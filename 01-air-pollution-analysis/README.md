@@ -167,9 +167,9 @@ To run this project, you'll need:
 ## Contact
 
 For questions or collaboration:
-- Email: kanchan.ocpgmail.com
-- LinkedIn: [linkedin.com/in/kanchan-ratan](https://www.linkedin.com/in/kanchan-ratan-a82193273)
-- GitHub: [@kanchanratan1980](https://github.com/kanchanratan1980)
+- Email: pktella25@gmail.com
+- LinkedIn: [linkedin.com/in/prudhvikrishnatella](https://www.linkedin.com/in/prudhvikrishnatella)a82193273)
+- GitHub: [github.com/pkriShna-1998](https://github.com/pkriShna-1998)
 
 ## License
 
