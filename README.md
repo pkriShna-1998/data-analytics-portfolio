@@ -136,9 +136,9 @@ pip install -r requirements.txt
 
 ## Contact & Connect
 
-- **Email:** kanchan.ocpgmail.com
-- **LinkedIn:** [linkedin.com/in/kanchan-ratan](https://www.linkedin.com/in/kanchan-ratan-a82193273)
-- **GitHub:** [github.com/kanchanratan1980](https://github.com/kanchanratan1980)
+**Email:** pktella25@gmail.com
+**LinkedIn:** [linkedin.com/in/prudhvikrishnatella](https://www.linkedin.com/in/prudhvikrishnatella)ratan-a82193273)
+**GitHub:** [github.com/pkriShna-1998](https://github.com/pkriShna-1998)
 
 ---
 
